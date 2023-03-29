@@ -23,16 +23,20 @@ public class GeradoradeFigurinhas {
         Graphics2D graphics = (Graphics2D) novaImagem.getGraphics();
         graphics.drawImage(imagemOriginal,0,0, null);
 
-        //escrever nova imagem em um arquivo
-        ImageIO.write(novaImagem, "png",new File("saida/zazacat2.jpg"));
-
         // configurar a fonte
         var fonte = new Font(Font.SANS_SERIF, Font.BOLD, 70);
         graphics.setColor(Color.yellow);
         graphics.setFont(fonte);
 
         // escrever frase comica hahaha
-        graphics.drawString("PQ NAO GERA A FONTE", 0, novaAltura -100);
+        graphics.drawString("snifsnif", 0, novaAltura -100);
+
+        //escrever nova imagem em um arquivo
+        ImageIO.write(novaImagem, "png",new File("saida/zazacat2.jpg"));
+
+
+
+
 
 
     }
