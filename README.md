@@ -7,11 +7,12 @@
 </h1>
 
 <p align="center">
-Imersão Java 2 realizada pela Alura  no ano de 2023.
-<p align="center">Sobre o Java, é uma linguagem de programação rápida e amplamente usada para codificar aplicações Web. Afinal, é segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
+<b>Este é um repositório da Imersão Java 2 realizada pela Alura  no ano de 2023.</b>
+
+<p align="center">Sobre o Java ☕ , ele é uma linguagem de programação rápida e amplamente usada para codificar aplicações Web. Afinal, é segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
 
 
-<h2>☕Para se aprofundar mais na linguagem Java segue abaixo links que foram disponibilizados no curso:</h3> 
+<h2>☕Para se aprofundar mais na linguagem Java:</h2> 
 
  - [ ] <a href="https://www.youtube.com/watch?v=90NcVNsKGik">O que é Java?</a> - Roberta Arcoverde e Paulo Silveira debatem sobre suas experiências com essa linguagem.
  - [ ] <a href="https://www.alura.com.br/artigos/java">Java: o que é, linguagem e um Guia para iniciar na tecnologia</a> - artigo completo 
