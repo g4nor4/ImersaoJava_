@@ -6,10 +6,9 @@
 #ImersãoJava_
 </h1>
 
-<p align="center">
-<b>Este é um repositório da Imersão Java 2 realizada pela Alura  no ano de 2023.</b>
+<b align="center">Este é um repositório da Imersão Java 2 realizada pela Alura em março de 2023.</b>
 
-<p align="center">Sobre o Java ☕ , ele é uma linguagem de programação rápida e amplamente usada para codificar aplicações Web. Afinal, é segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
+<p>Sobre o Java, é uma linguagem de programação rápida e amplamente usada para codificar aplicações Web. Afinal, é segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
 
 
 <h2>☕Para se aprofundar mais na linguagem Java:</h2> 
