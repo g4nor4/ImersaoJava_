@@ -7,7 +7,7 @@
 
 <b align="center">Este é um repositório da Imersão Java 2 realizada pela Alura em março de 2023.</b>
 
- > Sobre o Java, é uma linguagem de programação rápida e amplamente usada para codificar aplicações Web. Afinal, é segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
+> Sobre o Java, é uma linguagem de programação rápida e amplamente usada para codificar aplicações Web. Afinal, é segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
 
  
 <h2>☕Para se aprofundar mais na linguagem Java:</h2> 
@@ -22,10 +22,13 @@
 <h2>📝 Atividades realizadas na Imersão Java da Alura - 2023</h2>
 
 - [x] <a href="https://github.com/g4nor4/ImersaoJava_/tree/main/Aula01Alura">Aula 01 </a>- Consumindo uma API de filmes com Java
-      <p> Aprendemos como importar uma API e a filtrar apenas o que é seria necessário para gerar uma lista de filmes 
-      > [image]
+      <p>Resultado:
+      <p><img src="" width=50% height=75%>
 
-  
+ - [x] <a href="">Aula 02</a>- Gerando Figurinhas para Whatsapp
+      <p>Resultado:
+      <p><img src="https://github.com/g4nor4/ImersaoJava_/blob/main/Aula02-StickersMaker/saida/zazacat2.jpg?raw=true" width=20% height=20%>
+
  
 <h2> ⭐ Repositórios que valem a pena dar uma olhada</h2>
 
