@@ -19,7 +19,7 @@
 
 
 
-<h2>📝 Atividades realizadas na Imersão Java da Alura - 2023</h3>
+<h2>📝 Atividades realizadas na Imersão Java da Alura - 2023</h2>
 
 - [x] <a href="https://github.com/g4nor4/ImersaoJava_/tree/main/Aula01Alura">Aula 01 </a>- Consumindo uma API de filmes com Java
       <p> Aprendemos como importar uma API e a filtrar apenas o que é seria necessário para gerar uma lista de filmes 
@@ -27,3 +27,6 @@
 
   
  
+<h2>Repositórios que valem a pena dar uma olhada</h2>
+- https://github.com/cleverlf/api-stickers
+- 
