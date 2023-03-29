@@ -22,7 +22,7 @@ public class Main { //Classe principal
         List<Map<String,String>> listaDeFilmes = parser.parse(body);
 
         for (Map<String, String> filme : listaDeFilmes){
-            System.out.println("Título: " + filme.get("title"));
+            System.out.println("\u001b[1mTitle:\u001b[m " + filme.get("title"));
             System.out.println("Imagem: " + filme.get("image"));
             System.out.println("Classificacao: " + filme.get("imDbRating"));
             double classificacao = Double.parseDouble(filme.get("imDbRating"));
