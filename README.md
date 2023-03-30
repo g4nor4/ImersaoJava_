@@ -22,12 +22,15 @@
 <h2>📝 Atividades realizadas na Imersão Java da Alura - 2023</h2>
 
 - [x] <a href="https://github.com/g4nor4/ImersaoJava_/tree/main/Aula01Alura">Aula 01 </a>- Consumindo uma API de filmes com Java
-      <p>Resultado:
+      <p><b>Resultado:</b>
       <p><img src="" width=50% height=75%>
 
  - [x] <a href="">Aula 02</a>- Gerando Figurinhas para Whatsapp
-      <p>Resultado:
+      <p><b>Resultado:</b>
       <p><img src="https://github.com/g4nor4/ImersaoJava_/blob/main/Aula02-StickersMaker/saida/zazacat2.jpg?raw=true" width=20% height=20%>
+      
+  - [ ] Aula 03 - Ligando as pontas, refatoração e orientação a objetos
+        <p><b>Resultado:</b>
 
  
 <h2> ⭐ Repositórios que valem a pena dar uma olhada</h2>
